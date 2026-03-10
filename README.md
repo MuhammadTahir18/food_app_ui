@@ -16,4 +16,5 @@ The app focuses on smooth user experience with attractive layouts and reusable c
 - Dart
 - Material UI
 
-- 
+![App Screenshot]( https://github.com/MuhammadTahir18/food_app_ui/blob/1f9c0d7fcb9217d96326aeeff772c2d4a7e96fbe/1p.PNG)
+
