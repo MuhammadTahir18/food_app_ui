@@ -1,16 +1,19 @@
-# food_delivery_app
+## Food App UI
 
-A new Flutter project.
+This project is a modern **Food Delivery App UI** built using Flutter.  
+It includes a clean and responsive interface for browsing food items, viewing product details, adding items to cart, and placing orders.  
+The app focuses on smooth user experience with attractive layouts and reusable components.
 
-## Getting Started
+### Features
+- Beautiful and modern UI design
+- Food items listing screen
+- Product detail page
+- Add to cart interface
+- Responsive layout
 
-This project is a starting point for a Flutter application.
+### Tech Stack
+- Flutter
+- Dart
+- Material UI
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 
